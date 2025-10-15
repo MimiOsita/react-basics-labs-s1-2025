@@ -69,7 +69,7 @@ button {
   right: 5px;
   color: red;
 }
-input[type=text], input[type=date] {
+input[type=text], input[type=date], select {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -89,6 +89,8 @@ input[type=submit] {
   border-radius: 4px;
   cursor: pointer;
 }
+
+
 
 input[type=submit]:hover {
   background-color: #45a049;
