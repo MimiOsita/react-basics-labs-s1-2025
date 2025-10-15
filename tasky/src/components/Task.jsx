@@ -1,6 +1,8 @@
 import React from 'react';
 
 const Task = (props) => {
+
+    
         return (
             <div className="card" style={{backgroundColor: props.done ? 'lightgrey' : '#5bb4c4'}}>
 
